@@ -1,0 +1,9 @@
+p {
+    text-align: justify;
+}
+
+.banner {
+    text-align: right; 
+    font-style: italic; 
+    margin-bottom: 20px
+}

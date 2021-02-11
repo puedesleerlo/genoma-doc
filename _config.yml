@@ -1,0 +1,45 @@
+#######################################################################################
+# Book settings
+title : De Linajes y profecías
+author: Alejandro Tabares
+logo: '_static/images/guerra.jpg'
+
+# Short description about the book
+description: >-
+  Una exploración del relato épico en Sobre Héroes y Tumbas de Ernesto Sábato
+
+#######################################################################################
+# Execution settings
+execute:
+  execute_notebooks           : cache
+
+#######################################################################################
+# HTML-specific settings
+html:
+  home_page_in_navbar         : false
+
+# #######################################################################################
+# Interact link settings
+notebook_interface            : "notebook"
+
+#######################################################################################
+# Launch button settings
+repository:
+  url                         : https://github.com/puedesleerlo/sobre-heroes.git
+  path_to_book                : "mini_book"
+
+binder:
+  binderhub_url               : "https://mybinder.org"
+  text                        : "Launch binder"
+
+latex:
+  latex_engine                : "xelatex"
+  latex_documents:
+    targetname: book.tex
+
+sphinx:
+  config:
+      language: "es"
+      tls_verify: false
+      linkcheck_anchors: false
+      html_show_copyright: false

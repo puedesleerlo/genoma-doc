@@ -1,0 +1,7 @@
+# - file: README
+- file: docs/index
+  sections:
+    - file: docs/caminoheroe
+    - file: docs/edipo
+    - file: docs/apocalipsis
+    - file: docs/conclusiones
