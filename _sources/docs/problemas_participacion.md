@@ -61,13 +61,20 @@ Respecto a los tres subproblemas planteados en este apartado, se proyecta la con
 ## Problema 3. Baja calidad, interoperabilidad y apertura de datos
 
 Los procesos de gobierno abierto y democracia digital promueven la generación de nuevas relaciones entre el Estado y la ciudadanía a través de la información y nuevos canales para la interacción entre actores; sin embargo, para que funcionen se requieren diferentes procesos de formación e información para la participación. De ellos en Genoma se destaca la liberación, acceso y reutilización de los datos que propicien un rol más activo de la ciudadanía, que les permita a los ciudadanos crear soluciones de forma colaborativa y potenciar la creatividad de los actores por medio de la innovación. 
+
 Este proceso en Colombia está en una etapa inicial, no son claras las necesidades de las comunidades para las instituciones públicas y los actores privados, se abren datos de baja calidad, sin tener en cuenta los estándares adoptados a nivel nacional, y, cuando los tienen en cuenta, se abren datos que no resultan relevantes para los procesos participativos. 
+
 En el caso de datos sobre los procesos poblacionales locales, una exploración inicial demuestra que existen sistemas de información que serían relevantes para comprender el estado de las poblaciones; sin embargo, estos sistemas, en muchas ocasiones, son de uso exclusivamente público, y aun así no se tienen en cuenta para la toma de decisiones. 
+
 De acuerdo al IPCM (2019), los ciudadanos de Medellín evidencian un panorama complejo frente al acceso a la información en los programas y proyectos de la Alcaldía de Medellín: un 73% afirma que no es de fácil acceso. Sumado a esto, respecto a si esa misma información es clara y comprensible, un 75% menciona que no lo es.
+
 Las dificultades en los procesos de apertura de datos y acceso a la información desincentivan las relaciones entre el Estado y la sociedad civil, pues la interacción se ve limitada por diversas condiciones que impiden la colaboración, la innovación y la transparencia; debido, principalmente, a que estas dinámicas requieren de la disponibilidad y el acceso a la información pública. Según el mismo IPCM (2019), un 91,8% de los ciudadanos expresan que la información no es amplia, ni suficiente y un 90% expresa que no se publica información.
+
 La falta de calidad, interoperabilidad y apertura de datos genera dificultades en la producción de información y en la comunicación de los procesos impulsados por la sociedad civil. Esta problemática es particularmente compleja para las poblaciones vulnerables, puesto que existen amplias bases de datos sobre caracterización y diagnósticos que no salen a la luz pública; y no se trabaja alrededor de esta información con las poblaciones, para que la apropien y participen de manera informada. 
+
 Por otro lado, los actores privados disponen de información y recursos, pero no encuentran puentes para colaborar con la ciudadanía y los actores públicos. En el caso de la academia en Medellín, el ambiente de competencia por recursos no le permite incentivar de forma abierta la participación, ni las posibilidades que se abren con los datos y la información para generar procesos participativos innovadores y transparentes. 
 Aunque existen normas y planes que requieren de la participación de la ciudadanía en procesos de gestión pública, prácticas de transparencia activa, innovación para la solución de problemáticas, colaboración y uso de datos abiertos para la creación de soluciones colaborativas, en el marco de procesos de gobernanza, están aún lejos de materializarse. 
+
 Esta imagen reúne los subproblemas que componen el presente problema relativo a la baja calidad, interoperabilidad y apertura de datos. Al respecto, la intervención para cada uno se enfoca en los componentes Infodata y Genomatech:
 
 
@@ -76,17 +83,23 @@ Esta imagen reúne los subproblemas que componen el presente problema relativo a
 
 
 Respecto a la poca cantidad de información abierta, la insuficiente calidad de los datos abiertos y la falta de calidad e interoperabilidad de los datos y sistemas de información, el proyecto interviene a través de Infodata, un repositorio de información que pretende utilizar nodos de conocimiento para relacionar la información contenida en diferentes sistemas de información. El objetivo de este proceso que la información que se adquiera partiendo del contexto y las necesidades de las poblaciones se adapte para que sea útil en su comunicación y sea la base de sus procesos de movilización y relacionamiento con otros actores, principalmente las instituciones públicas. 
+
 Además, este componente de Genoma, tal como lo menciona el Eje al cual se adscribe, pretende generar conocimiento a través de la investigación para mejorar los procesos de apertura de datos, no solo de organizaciones privadas, sino también públicas, con el fin de que esta información pueda ser apropiada por la sociedad civil, abrir nuevas posibilidades a la innovación y que, a su vez, se generen procesos de transparencia y rendición de cuentas desde lo público. 
 Frente a la poca divulgación de datos, desde Genomatech se interviene de manera tal que la información disponible sea divulgada a través de plataformas o aplicaciones de tecnología cívica accesibles para cualquier tipo de público, que permita ampliar el alcance de la información divulgada y el acceso a los diferentes procesos de participación ciudadana.
+
 Finalmente, las falencias en la accesibilidad de la información disponible hacen referencia a aquellos formatos estándar en los que es presentada la información que impiden el acceso a la misma por parte de diferentes poblaciones que lo requieren. Para esto es necesario la aplicación de diseños universales, o en su defecto, de formatos diferenciales que permitan la interacción y apropiación de la información. 
 Es en este sentido que se conjugan tanto Infodata como Genomatech para que, a través de la investigación producto del primero de estos componentes, se generen formatos universales aplicables a los desarrollos tecnológicos producidos por el segundo componente.
 
 ## Problema 4. Baja capacidad para incidir en la toma de decisiones
 
 La capacidad de incidencia es uno de los principales problemas dentro de los procesos de participación ciudadana. En los escenarios de toma de decisiones los flujos de recursos e intereses constituyen los elementos básicos para la generación de cursos de acción, en este proceso son determinantes la información y la capacidad de articulación entre diversos actores.
+
 Sin embargo, la falta de formación y de acceso a la información para la participación hacen que la creación de agenda y la posterior toma de decisiones se concentren en liderazgos que legitiman y reproducen prácticas políticas tradicionales. Si se entiende a la decisión como uno de los momentos clave previo a la intervención de la situación problemática, las poblaciones afectadas por el problema público deberían conformar los escenarios activos para la determinación de la decisión sobre el curso de acción.
+
 Según el IPCM (2019), del total de encuestados, un 76.31% no participa en la toma de decisiones para mejorar su comuna o corregimiento, reflejando consigo un escenario complejo para la incidencia en la ciudad de Medellín. Añadiendo que un 80.52% no ha participado durante los últimos 24 meses de iniciativas, propuestas o proyectos que beneficien su comuna o corregimiento, por lo que es necesario enfocar la participación y generar estrategias que vincule la participación ciudadana con la incidencia.
+
 Este escenario, por lo general, está más dominado por procesos asociados a la influencia y al poder que a la información y formación; haciendo que las decisiones tomadas no respondan necesariamente a los procesos técnicamente más adecuados ni socialmente más necesarios para la intervención de la problemática. Genoma aprovecha lo dicho por el Informe de la Encuesta Percepción Ciudadana de 2018, en el que menciona que el 62% del total de personas que dice participar en acciones ciudadanas lo hace motivado porque considera que como ciudadano es un deber participar, lo que pone de manifiesto la lógica de ampliar la participación y propender por su incidencia en la toma de decisiones que beneficien a sus comunidades.
+
 Es por esto que la configuración de una toma de decisiones informada y participativa, que incluya la intervención estratégica de la comunidad afectada, con posibilidades reales de incidencia, sumada a los actores formales es una necesidad que, desde Genoma, se requiere para mejorar los procesos de participación.
 
 
@@ -94,25 +107,37 @@ Es por esto que la configuración de una toma de decisiones informada y particip
 
 
 La falta de incidencia en la toma de decisiones, como se presenta en la imagen, se asocia, en primer lugar, con la poca apropiación de espacios de participación por parte de los ciudadanos, es por esto que desde Genoma se pretende generar un banco de propuestas, desde el cual se apoye a nivel técnico las propuestas de los grupos poblacionales partícipes del proyecto, para que estos se vean motivados a apropiarse de los procesos y espacios de participación ya existentes desde la puesta en práctica de todos sus conocimientos referentes al ejercicio participativo. 
+
 Además de esto, otro de los subproblemas identificados se relaciona con la falta de objetivos claros por parte de los ciudadanos para participar; es decir, gran parte de las personas que participan o están interesadas en participar no se han establecido objetivos específicos que dirijan el rumbo de su ejercicio del derecho a participar y, en ese sentido, se desvanece en diferentes ocasiones el interés por los procesos de participación. Es por esto que Genoma, desde la formación, pretende generar mayor interés en las poblaciones para que participen de procesos formales e informales de manera consciente e informada y así se produzca un control social más efectivo y una mayor incidencia en la toma de decisiones públicas. 
+
 Por otro lado, si bien es cierto que en la ciudad se generan procesos de control social a la gestión pública, estos terminan siendo poco efectivos en muchas ocasiones por la falta de información disponible, la formación respecto a las formas de ejercer el control social, la divulgación de los procesos de control social o la falta de requerimientos claros por parte de la sociedad civil. 
+
 En ese orden de ideas, desde el proyecto se dispone de 3 componentes; en primer lugar, el formativo, que busca generar mayor conocimiento de los procesos estatales en la población; en segundo lugar, el de incidencia, el cual busca que las poblaciones partícipes del proyecto generen propuestas estructuradas en los conocimientos referentes a los 6 momentos críticos de la participación para llevar a cabo más y mejores procesos de control social y; en tercer lugar, Genomatech, desde el cual se espera difundir las propuestas y procesos iniciados por la sociedad civil. 
+
 Respecto a la poca incidencia en la tomas de decisiones, como se menciona en este apartado, desde los procesos de participación se requiere de mayor información de calidad que permita la intervención informada de la sociedad civil y esta sea tenida en cuenta por los tomadores de decisión; de esta manera, el componente formativo y de incidencia juegan un papel fundamental para que las poblaciones adquieran y apliquen conocimientos en la presentación de propuestas concretas en los diferentes espacios de participación. 
+
 Finalmente, como ya fue mencionado, la poca disponibilidad de información será intervenida desde Infodata y Genomatech, generando un proceso sustentado en lo que se conoce como investigación aplicada. 
 
 ## Problema 5. Poca articulación entre procesos de participación
 
 El último de los problemas identificados en el marco del proyecto es el referente a la poca articulación entre procesos de participación ciudadana formales e informales, así como entre los diferentes actores que conforman el ecosistema de participación de la ciudad. 
+
 De acuerdo al IPCM (2019), el 78,7% de los encuestados refiere conflictos entre la Administración y las organizaciones o colectivos sociales. En tal sentido, se formulan como subproblemas la desconfianza entre los diferentes actores que participan, así como la desconfianza entre los diferentes niveles de participación y representación. 
+
 Además de esto, es importante tener en cuenta que, si bien es cierto que la ciudad agrupa una gran cantidad de organizaciones, procesos y espacios de participación, muchos de estos no son reconocidos por parte del conjunto de la sociedad; es decir, su gestión carece de amplia visibilidad e impide que nuevos individuos se vinculen al mismo o que se generen alianzas con otras organizaciones, procesos y espacios. 
+
 Por otra parte, la poca articulación entre los procesos de participación puede ser analizada desde el desinterés por parte de los ciudadanos para vincularse a procesos de participación que, a su vez, se puede contemplar desde dos aristas: en primer lugar, la insuficiencia de incentivos para participar, pues el ejercicio participativo requiere de recursos económicos, técnicos, así como de tiempo por parte de la ciudadanía activa, en ese sentido, deben ser generados incentivos que faciliten el acceso a la participación por parte de los ciudadanos interesados. 
+
 En segundo lugar, es posible que se presente desinterés de los ciudadanos en los problemas públicos y que la participación que se ejerza por parte de estos se encuentre motivada en adquirir recursos para beneficio propio o de una pequeña parte de la población. 
+
 A partir de esto, la imagen presentada a continuación propone una intervención para cada subproblema basada en los componentes que conforman Genoma.
 
 
 
 
 La información tiene un enorme potencial para generar procesos de articulación activa de diferentes actores que formen parte de un ecosistema particular; de forma más concreta, en términos de participación, la información clara y abierta a tiempo por parte de diversos actores permite que existan prácticas de transparencia activa, impactando de forma directa la confianza, abriendo caminos para la innovación y la colaboración y facilitando procesos de relacionamiento sistemático a través del control social a la gestión pública. 
+
 En este apartado, Genoma propone intervenir, en primer lugar, desde la formación para la incidencia, teniendo como objetivo impulsar bancos de propuestas construidas con los actores que formen parte del proceso, y abriendo estás propuestas para la retroalimentación por parte de otros actores. 
 Otra acción propuesta por el proyecto está encaminada al reconocimiento de las capacidades de incidencia de los procesos participativos de los grupos poblacionales de la ciudad, mediante la creación de prototipos de tecnología cívica, que le den otra perspectiva y elementos a múltiples procesos de incidencia que superan las dinámicas tradicionales de la participación a nivel local. 
+
 Finalmente, a través del mapeo de actores clave es posible identificar redes de relaciones dinámicas con las que se puedan proyectar procesos de trabajo conjunto, que permitan superar las prácticas tradicionales de la participación y proyectar procesos de incidencia de los grupos poblacionales a nivel de ciudad, superando las dinámicas estrictamente comunales llevadas a cabo en la actualidad. 
