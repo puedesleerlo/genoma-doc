@@ -1,7 +1,23 @@
 # - file: README
 - file: docs/index
-  sections:
-    - file: docs/caminoheroe
-    - file: docs/edipo
-    - file: docs/apocalipsis
-    - file: docs/conclusiones
+
+- part: Información general
+  chapters:
+    - file: docs/justificacion
+    - file: docs/objetivos
+
+- part: Esferas
+  chapters:
+    - file: docs/esferas
+    - file: docs/esfera_investigacion
+    - file: docs/esfera_aplicacion
+
+- part: Teoría del cambio
+  chapters:
+    - file: docs/teoria_cambio
+    - file: docs/problemas_participacion
+
+- part: Sistema de evaluación
+  chapters:
+    - file: docs/sistema_evaluacion
+
